@@ -50,7 +50,7 @@ This is a simple CRUD (Create, Read, Update, Delete) application built using Spr
 
 **Setup**
 Clone the repository:
-git clone https://github.com/shreyas-0203/student-crud-spring-boot.git
+git clone https://github.com/shreyas-0203/Student-CRUD-Assignment.git
 
 
 
