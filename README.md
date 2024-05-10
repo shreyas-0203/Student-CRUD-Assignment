@@ -35,7 +35,9 @@ This is a simple CRUD (Create, Read, Update, Delete) application built using Spr
 
 
 
-**Technologies Used**                                                                                                   
+**Technologies Used**     
+
+
 **Spring Boot**: Framework for building robust Java applications.                                                                                 
 **Spring Data JPA:** Simplifies data access layer implementation.                                                                                     
 **Hibernate**: ORM (Object-Relational Mapping) framework for database interaction.                                                                                         
